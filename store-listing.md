@@ -54,7 +54,7 @@ PRIVATE & SECURE
 Your conversations are encrypted and never sold. No ads, no data brokers. Your voice is yours.
 
 FREE PLAN
-- 500 messages per month
+- 250 messages per month
 - 30 wake word activations per month
 - 7-day chat history
 - Daily ADHD action icons
@@ -62,7 +62,7 @@ FREE PLAN
 - Dopamine reward streaks
 
 PRO PLAN ($14.99/month or $168/year)
-- 10,000 messages per month
+- 3,500 messages per month
 - Unlimited wake words
 - Spotify mood detection
 - Personalised AI responses
