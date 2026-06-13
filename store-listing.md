@@ -23,7 +23,7 @@ ADHD FOCUS TOOLS (New!)
 Designed specifically for neurodivergent brains:
 - Energy-based suggestions — tell Nivare if you're Low, Medium, or High energy and get adapted recommendations
 - Adaptive chat responses — shorter messages when you're drained, deeper when you're focused
-- Daily action icons — 5 small tasks (breathe, journal, DBT skill, energy check, impulse track) that disappear one by one as you complete them
+- Daily action icons — small tasks (breathe, journal, coping skill, energy check, focus, impulse track) that disappear one by one as you complete them
 - Dopamine reward streaks — variable-ratio rewards for completing daily actions, just like the psychology that keeps games engaging, but for healthy habits
 - Body double nudges — gentle daily check-in reminders that act as external accountability
 
@@ -34,24 +34,33 @@ ADHD and impulsive spending go hand in hand. Nivare helps you:
 - Track your resist rate and money saved over time
 - Earn reward points for every impulse you resist
 
-SPOTIFY MOOD DETECTION (Pro)
-Connect your Spotify account and let Nivare auto-play playlists that match your current mood. Anxious? Calming lo-fi. Energetic? Upbeat vibes. Music meets emotional intelligence.
+FOCUS TOGETHER (New!)
+A silent "body-double" focus session — Nivare sits with you while you work. A calm timer, gentle presence cues, and zero pressure. Stopping early still counts. Built to make starting tasks easier.
+
+PLAY ANY SONG (New!)
+Just ask — "play Sidhu Moose Wala" or "play sad Punjabi songs" — in any language. Nivare finds it and opens it in Spotify. Works with Hindi, Punjabi, English and more.
+
+SPOTIFY MOOD MUSIC (Pro)
+Connect your Spotify account and let Nivare suggest playlists that match your current mood. Anxious? Calming lo-fi. Energetic? Upbeat vibes.
 
 VOICE INTERACTION
-Talk to Nivare hands-free with wake words and natural voice responses. It feels like talking to a friend who actually gets you.
+Talk to Nivare hands-free with a wake word and natural voice responses. Name your assistant anything you like — it answers to the name you give it.
 
 MEMORY & PERSONALISATION
 Unlike generic chatbots, Nivare remembers your conversations and builds understanding over time. It knows what matters to you and uses that context to give responses that actually help.
 
-MENTAL HEALTH TOOLS
-Evidence-based tools built right in:
-- DBT skills and coping strategies
-- Thought records and journaling
-- Grounding exercises
+WELLBEING & COPING TOOLS
+Self-guided tools for everyday reflection — inspired by widely-used wellbeing techniques:
+- Journaling and thought records
+- Grounding and breathing exercises
+- Coping-skill prompts
 - Crisis resource links
 
 PRIVATE & SECURE
-Your conversations are encrypted and never sold. No ads, no data brokers. Your voice is yours.
+Your sensitive data — moods, focus, impulse logs — stays on your device. No ads, no data brokers. Delete everything anytime.
+
+IMPORTANT
+Nivare is a wellbeing and self-reflection companion, not a medical or therapy service. It does not diagnose, treat, or cure ADHD or any condition, and is not a substitute for professional care. In a crisis, contact local emergency services or a crisis line.
 
 FREE PLAN
 - 250 messages per month

@@ -33,15 +33,21 @@ a { color:var(--accent); }
 
 <div class="container">
 <h1>Privacy Policy</h1>
-<p class="updated">Last updated: June 3, 2026</p>
+<p class="updated">Last updated: June 14, 2026</p>
 
 <p>Nivare ("we", "us", or "our") operates the Nivare mobile application. This Privacy Policy explains how we collect, use, and protect your information when you use our app.</p>
+
+<div style="background:rgba(108,99,255,0.08); border:1px solid var(--glass-border); border-radius:12px; padding:16px 20px; margin:24px 0;">
+<p style="margin:0;"><strong style="color:var(--text);">Health &amp; Wellbeing Disclaimer.</strong> Nivare is a general wellbeing and self-reflection app. It is <strong>not a medical device</strong> and does not provide medical advice, diagnosis, therapy, or treatment for ADHD or any condition. Any mood, energy, or wellbeing information shown in the app is for self-awareness and general guidance only, and is not a clinical assessment. Nivare is not a substitute for a qualified healthcare professional. In an emergency, contact local emergency services or a crisis line immediately.</p>
+</div>
 
 <h2>1. Information We Collect</h2>
 <p><strong>Account Information:</strong> When you sign up, we collect your email address and display name through Firebase Authentication (Google Sign-In or Apple Sign-In).</p>
 <p><strong>Conversation Data:</strong> Messages you send to the AI companion are processed to generate responses. Conversations may be stored locally on your device and in our secure cloud database to enable features like memory and personalisation.</p>
-<p><strong>Mood & Emotion Data:</strong> Nivare analyses conversational cues to detect your emotional state. This data is used solely to improve your experience (e.g., suggesting music, adapting responses). It is never sold or shared with advertisers.</p>
+<p><strong>Mood & Wellbeing Signals:</strong> Nivare looks at conversational cues to estimate a general mood (for example, to suggest calming music or adapt its tone). These signals are <strong>not a medical or clinical assessment</strong> &mdash; they are used only to personalise your experience. They are never sold or shared with advertisers.</p>
 <p><strong>Voice Data:</strong> When you use voice features, audio is processed for speech-to-text conversion. We do not store raw audio recordings.</p>
+<p><strong>Music Requests:</strong> When you ask Nivare to play a song, artist, or mood-based music, the search text is sent to Spotify's search service to find a match, which then opens in the Spotify app. We do not store your music history.</p>
+<p><strong>Focus Sessions:</strong> Focus session activity (start, duration, completion) is stored locally on your device to update your streaks. It is not transmitted to our servers.</p>
 <p><strong>Spotify Data:</strong> If you connect Spotify, we access your playback controls and playlist data through Spotify's API. We do not store your Spotify credentials.</p>
 <p><strong>Energy & ADHD Data:</strong> If you use the ADHD focus tools, we store your daily energy level selections, action completion status, dopamine streak data, and impulse tracker entries locally on your device using SharedPreferences. This data is never transmitted to our servers or shared with third parties.</p>
 <p><strong>Financial Impulse Data:</strong> Spending urge descriptions and amounts you log in the impulse tracker are stored locally on your device only. We do not have access to your bank accounts, transactions, or financial information.</p>
