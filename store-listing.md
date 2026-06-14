@@ -63,16 +63,18 @@ IMPORTANT
 Nivare is a wellbeing and self-reflection companion, not a medical or therapy service. It does not diagnose, treat, or cure ADHD or any condition, and is not a substitute for professional care. In a crisis, contact local emergency services or a crisis line.
 
 FREE PLAN
-- 250 messages per month
-- 30 wake word activations per month
+- 50 messages per month (12 per week)
+- Built-in voice and speech
 - 7-day chat history
 - Daily ADHD action icons
 - Energy-based suggestions
 - Dopamine reward streaks
 
 PRO PLAN ($14.99/month or $168/year)
-- 3,500 messages per month
-- Unlimited wake words
+- 3,500 messages per month (about 875 per week)
+- Custom wake word recording
+- Premium on-device voices (Supertonic)
+- On-device language model downloads
 - Spotify mood detection
 - Personalised AI responses
 - Unlimited chat history
